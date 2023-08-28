@@ -1,0 +1,30 @@
+"pokemon":[
+    {
+      "photoURL": "https://rare-gallery.com/thumbnail/1312488-PikachuPikachu.png",
+      "name": "Pikachu",
+      "HP": 60,
+      "specialMove": "Thunder Shock"
+    },
+    {
+      "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4e3a9Sz4gcawpJIzbKMQnzezG-6U1Ua-6g&usqp=CAU",
+      "name": "Bulbasaur",
+      "HP": 65,
+      "specialMove": "Iron Whip"
+    },
+    {
+      "photoURL": "https://e0.pxfuel.com/wallpapers/636/325/desktop-wallpaper-squirtle-pokemon-sticker-squirtle-pokemon-png-transparent-png-squirtle-sunglasses.jpg",
+      "name": "Squirtle",
+      "HP": 70,
+      "specialMove": "Ice Beam"
+    },
+   
+    {
+      "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3bEGDTEJ29FFTm5ivhZt_3peq0IvTY2X5Q&usqp=CAU",
+      "name": "Charmander",
+      "HP": 55,
+      "specialMove": "Flame Thrower"
+    }
+   
+   
+  ];
+  
